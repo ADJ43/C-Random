@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1727659175 source:e:\repos2\c course\test 1\test1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1727667205 source:e:\repos2\c course\test 1\test1\program 1.c
+	<stdio.h>
+	<stdlib.h>
+
+1727668282 source:e:\repos2\c course\test 1\test1\function1.c
+	<stdio.h>
+	<stdlib.h>
+
+1727668771 source:e:\repos2\c course\test 1\test1\function2.c
+	<stdio.h>
+	<stdlib.h>
+
+1729218043 source:e:\repos2\c course\test 1\test1\function3.c
+	<stdio.h>
+	<stdlib.h>
+
+1729738045 source:e:\repos2\c course\test 1\test1\function4.c
+	<stdio.h>
+	<stdlib.h>
+
+1729738540 source:e:\repos2\c course\test 1\test1\function5.c
+	<stdio.h>
+	<stdlib.h>
+
+1729739202 source:e:\repos2\c course\test 1\test1\function6.c
+	<stdio.h>
+	<stdlib.h>
+
